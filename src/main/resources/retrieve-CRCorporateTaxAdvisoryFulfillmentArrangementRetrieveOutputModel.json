@@ -1,0 +1,29 @@
+{
+  "corporateTaxAdvisoryFulfillmentArrangementRetrieveActionTaskReference" : "CTAFARATR799787",
+  "corporateTaxAdvisoryFulfillmentArrangementRetrieveActionResponse" : "corporateTaxAdvisoryFulfillmentArrangementRetrieveActionResponse",
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "789020",
+    "employeeBusinessUnitReference" : "788145",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "corporateTaxAdviceConsolidationRecord" : {},
+    "corporateTaxAdvisoryWorkProducts" : "corporateTaxAdvisoryWorkProducts",
+    "corporateTaxAdviceSessionSchedule" : "corporateTaxAdviceSessionSchedule",
+    "customerReference" : "701129",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "728767",
+    "bankBranchLocationReference" : "772957"
+  },
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceAnalysis" : {
+    "corporateTaxAdvisoryFulfillmentArrangementInstanceAnalysisData" : "corporateTaxAdvisoryFulfillmentArrangementInstanceAnalysisData",
+    "corporateTaxAdvisoryFulfillmentArrangementInstanceAnalysisReportType" : "corporateTaxAdvisoryFulfillmentArrangementInstanceAnalysisReportType",
+    "corporateTaxAdvisoryFulfillmentArrangementInstanceAnalysisReport" : {}
+  },
+  "corporateTaxAdvisoryFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceReportRecord" : {
+    "corporateTaxAdvisoryFulfillmentArrangementInstanceReportData" : "corporateTaxAdvisoryFulfillmentArrangementInstanceReportData",
+    "corporateTaxAdvisoryFulfillmentArrangementInstanceReport" : {},
+    "corporateTaxAdvisoryFulfillmentArrangementInstanceReportType" : "corporateTaxAdvisoryFulfillmentArrangementInstanceReportType"
+  }
+}

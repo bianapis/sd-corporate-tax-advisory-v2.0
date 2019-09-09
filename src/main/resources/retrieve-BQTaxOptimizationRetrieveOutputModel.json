@@ -1,0 +1,26 @@
+{
+  "taxOptimizationRetrieveActionTaskReference" : "TORATR790197",
+  "taxOptimizationRetrieveActionResponse" : "taxOptimizationRetrieveActionResponse",
+  "taxOptimizationInstanceAnalysis" : {
+    "taxOptimizationInstanceAnalysisReportType" : "taxOptimizationInstanceAnalysisReportType",
+    "taxOptimizationInstanceAnalysisReport" : {},
+    "taxOptimizationInstanceAnalysisParameters" : "taxOptimizationInstanceAnalysisParameters",
+    "taxOptimizationInstanceAnalysisRecord" : {}
+  },
+  "taxOptimizationInstanceRecord" : {
+    "productServiceReference" : "785003",
+    "taxOptimizationGuidanceAdviceResult" : "taxOptimizationGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "710655"
+    }
+  },
+  "taxOptimizationRetrieveActionTaskRecord" : {},
+  "taxOptimizationInstanceReport" : {
+    "taxOptimizationInstanceReportRecord" : {},
+    "taxOptimizationInstanceReportParameters" : "taxOptimizationInstanceReportParameters",
+    "taxOptimizationInstanceReportType" : "taxOptimizationInstanceReportType",
+    "taxOptimizationInstanceReport" : {}
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "requestRecordReference" : "RRR778741",
+  "corporateTaxAdvisoryFulfillmentArrangementRequestActionTaskReference" : "CTAFARATR723572",
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceRecord" : {
+    "employeeBusinessUnitReference" : "713098",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "corporateTaxAdviceConsolidationRecord" : {},
+    "corporateTaxAdvisoryWorkProducts" : "corporateTaxAdvisoryWorkProducts",
+    "corporateTaxAdviceSessionSchedule" : "corporateTaxAdviceSessionSchedule",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "789654",
+    "bankBranchLocationReference" : "752935"
+  },
+  "corporateTaxAdvisoryFulfillmentArrangementRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,28 @@
+{
+  "serviceFeesUpdateActionTaskRecord" : {},
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "756428",
+    "employeeBusinessUnitReference" : "773236",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "corporateTaxAdviceConsolidationRecord" : {},
+    "corporateTaxAdvisoryWorkProducts" : "corporateTaxAdvisoryWorkProducts",
+    "corporateTaxAdviceSessionSchedule" : "corporateTaxAdviceSessionSchedule",
+    "customerReference" : "701948",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "741866",
+    "bankBranchLocationReference" : "702186"
+  },
+  "updateResponseRecord" : {},
+  "serviceFeesInstanceRecord" : {
+    "feeApplicationRecord" : {
+      "feeTransaction" : {
+        "feeTransactionCharge" : "USD 250",
+        "feeTransactionDescription" : "feeTransactionDescription",
+        "feeTransactionType" : "feeTransactionType"
+      }
+    }
+  },
+  "serviceFeesUpdateActionTaskReference" : "SFUATR743304"
+}

@@ -1,0 +1,15 @@
+{
+  "serviceFeesInitiateActionRecord" : {},
+  "serviceFeesInitiateActionReference" : "SFIAR735671",
+  "serviceFeesInstanceStatus" : "serviceFeesInstanceStatus",
+  "serviceFeesInstanceReference" : "SFIR700505",
+  "serviceFeesInstanceRecord" : {
+    "feeApplicationRecord" : {
+      "feeTransaction" : {
+        "feeTransactionCharge" : "USD 250",
+        "feeTransactionDescription" : "feeTransactionDescription",
+        "feeTransactionType" : "feeTransactionType"
+      }
+    }
+  }
+}

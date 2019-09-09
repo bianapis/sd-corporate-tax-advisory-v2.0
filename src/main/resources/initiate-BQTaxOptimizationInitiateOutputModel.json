@@ -1,0 +1,26 @@
+{
+  "taxOptimizationInitiateActionReference" : "TOIAR771550",
+  "taxOptimizationInstanceReference" : "TOIR781977",
+  "taxOptimizationInstanceRecord" : {
+    "taxOptimizationGuidanceAdviceResult" : "taxOptimizationGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "742738"
+    }
+  },
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceRecord" : {
+    "employeeBusinessUnitReference" : "708724",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "corporateTaxAdviceConsolidationRecord" : {},
+    "corporateTaxAdvisoryWorkProducts" : "corporateTaxAdvisoryWorkProducts",
+    "corporateTaxAdviceSessionSchedule" : "corporateTaxAdviceSessionSchedule",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "767435",
+    "bankBranchLocationReference" : "700804"
+  },
+  "taxOptimizationInitiateActionRecord" : {},
+  "taxOptimizationInstanceStatus" : "taxOptimizationInstanceStatus"
+}

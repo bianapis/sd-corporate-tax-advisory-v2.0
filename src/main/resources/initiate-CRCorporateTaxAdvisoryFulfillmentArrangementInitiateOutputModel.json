@@ -1,0 +1,16 @@
+{
+  "corporateTaxAdvisoryFulfillmentArrangementInitiateActionRecord" : {},
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceStatus" : "corporateTaxAdvisoryFulfillmentArrangementInstanceStatus",
+  "corporateTaxAdvisoryFulfillmentArrangementInitiateActionReference" : "CTAFAIAR772192",
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceReference" : "CTAFAIR733556",
+  "corporateTaxAdvisoryFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "754853",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "corporateTaxAdviceConsolidationRecord" : {},
+    "corporateTaxAdvisoryWorkProducts" : "corporateTaxAdvisoryWorkProducts",
+    "corporateTaxAdviceSessionSchedule" : "corporateTaxAdviceSessionSchedule",
+    "documentDirectoryEntryInstanceReference" : "797611"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "taxOptimizationInstanceRecord" : {
+    "productServiceReference" : "740368",
+    "taxOptimizationGuidanceAdviceResult" : "taxOptimizationGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "752461"
+    }
+  },
+  "taxOptimizationRequestActionTaskReference" : "TORATR788944",
+  "taxOptimizationRequestActionTaskRecord" : {},
+  "taxOptimizationRequestRecordReference" : "TORRR704789",
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,14 @@
+{
+  "taxOptimizationUpdateActionTaskRecord" : {},
+  "taxOptimizationInstanceRecord" : {
+    "productServiceReference" : "794384",
+    "taxOptimizationGuidanceAdviceResult" : "taxOptimizationGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "736752"
+    }
+  },
+  "updateResponseRecord" : {},
+  "taxOptimizationUpdateActionTaskReference" : "TOUATR742789"
+}
